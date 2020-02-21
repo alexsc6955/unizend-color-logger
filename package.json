@@ -1,8 +1,8 @@
 {
   "name": "unizend-color-logger",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Get your node.js console styled",
-  "main": "index.js",
+  "main": "unizend-color-logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index"

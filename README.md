@@ -3,7 +3,7 @@ Easiest way to get your node.js console styled
 
 ## Instalation
 
-  npm i --save unizend-color-logger
+    npm i --save unizend-color-logger
 
 ## Suported colors
 
@@ -19,6 +19,6 @@ Easiest way to get your node.js console styled
 
 As easy as
 
-  const uzl = require(unizend-color-logger)
+    const uzl = require(unizend-color-logger)
 
-  uzl.log('blue', 'Hello, World!')
+    uzl.log('blue', 'Hello, World!')

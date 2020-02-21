@@ -1,0 +1,24 @@
+{
+  "name": "unizend-color-logger",
+  "version": "0.1.0",
+  "description": "Get your node.js console styled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rincorpes/unizend-color-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rincorpes/unizend-color-logger/issues"
+  },
+  "homepage": "https://github.com/Rincorpes/unizend-color-logger#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

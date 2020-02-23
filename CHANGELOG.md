@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2020-02-23
 ### Added
 * Background Colors By [@Rincorpes](https://github.com/Rincorpes)
-### Change
+### Changed
 * Now you can change the color using `console.log` instead of `uzl.log` By [@Rincorpes](https://github.com/Rincorpes)
 ### Deprecated
 * `uzl.log`

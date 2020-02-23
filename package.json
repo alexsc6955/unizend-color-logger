@@ -1,6 +1,6 @@
 {
   "name": "unizend-color-logger",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Get your node.js console styled",
   "main": "unizend-color-logger.js",
   "scripts": {

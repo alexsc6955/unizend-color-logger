@@ -1,13 +1,11 @@
 const uzl = require('./unizend-color-logger')
 
-uzl.log('Hello, World!')
+console.log("Welcome");
 
-uzl.log('blue', 'Turning Blue!')
+console.log("\x1b[90mTest\x1b[39m")
 
-uzl.log('blue')
-
-uzl.log('blue sea')
-
-uzl.log('Testing reset')
-
-uzl.log('cyan', 'Displaying the color you see!')
+console.log('red','Colored text')
+console.log('bg-white','Background colored text')
+console.log('bold','Styled text')
+console.log('cyan','Colored text with bg')
+console.log('bg-red','Bright Colored text')
